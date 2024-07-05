@@ -6,4 +6,3 @@ social-network-links:
   github: sigtstp
 exclude:
   - CNAME
-  - README.md
